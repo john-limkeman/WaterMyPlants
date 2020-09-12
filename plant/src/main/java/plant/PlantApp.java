@@ -35,8 +35,6 @@ public class PlantApp {
 		run(scanner, garden, menu);
 	}
 	
-	//hello github
-	
 	public static void recallData(Garden garden, File file) throws IOException {
 		if (!file.exists()){
 			file.createNewFile();
