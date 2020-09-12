@@ -1,0 +1,9 @@
+Cactus,Steve,false,2020-09-25,2020-08-26,30
+Cactus,Robert,false,2020-10-31,2020-09-01,60
+Herb,Herby,false,2020-09-14,2020-09-09,5
+Palm,Coconut,false,2020-09-13,2020-09-09,4
+Foliage,Pothos,false,2020-09-19,2020-09-12,7
+Orchid,gothmog,false,2020-09-16,2020-09-09,7
+Fern,Ferny,false,2020-09-16,2020-09-09,7
+Vegetable,Tom,false,2020-09-14,2020-09-12,2
+Succulent,ANdy,false,2020-11-11,2020-09-12,60
